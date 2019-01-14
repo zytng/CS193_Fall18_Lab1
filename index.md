@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Ziteng's first CS193 Lab
+
+My favorite things about Purdue CS193 
+- How to use GitHub
+- How to use some other tools
+- Make new friends who are interested in CS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
